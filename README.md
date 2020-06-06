@@ -1,4 +1,3 @@
 # Battle-of-neighborhoods
-This repository consists of Applied Data Science capstone project 
+This repository consists of Applied Data Science capstone project comparing restaurants in Bangalore and Chennai using Foursquare API and Zomato API
 
-Link for notebook: https://github.com/parthasarathy97/Coursera_Capstone/blob/master/Capstone_Project.ipynb
